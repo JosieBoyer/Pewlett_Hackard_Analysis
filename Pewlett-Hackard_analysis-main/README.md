@@ -1,5 +1,4 @@
 # Pewlett-Hackard Analysis
-### PostgreSQL Queries
 ---
 ## Overview of Analysis
 
